@@ -1,7 +1,7 @@
 # Food sales and MRP
 ## Discovering the relationship between the MRP of a food and how well it sells.
 
-**Author**: 
+**Author**: J. Tulani Aytch
 
 ### Business problem:
 
