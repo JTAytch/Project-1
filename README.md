@@ -20,7 +20,7 @@ A food sales dataset with 12 features and 8500+ instances.
 
 ## Results
 
-#### Visual 1 Title
+#### Item sales by type:
 
 ![sample image](https://user-images.githubusercontent.com/112998617/199859875-e1ef20f0-60e9-434d-ba61-b87c9fb304ce.png)
 
@@ -29,8 +29,11 @@ A food sales dataset with 12 features and 8500+ instances.
 
 #### Visual 2 Title
 
-![sample image](https:![index 2](https://user-images.githubusercontent.com/112998617/199859916-0c121efa-b20b-47d1-90ba-87efd16c8841.png)
+![sample image]([index3](https://user-images.githubusercontent.com/112998617/199860456-47a6bf9a-a953-459d-a56d-009ae66252cb.png)
 
+
+
+The data marks an interesting trend, as MRP (Maximum retail price) increases, sales increases as well. Though there are many items and instances of data, this shows that, in general, the overall price of the item does not negatively affect the sale of the item. 
 
 ## Model
 
