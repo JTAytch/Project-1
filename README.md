@@ -21,16 +21,16 @@ A food sales dataset with 12 features and 8500+ instances.
 ## Results
 
 #### Visual 1 Title
+
 ![sample image](project1![index](https://user-images.githubusercontent.com/112998617/199859875-e1ef20f0-60e9-434d-ba61-b87c9fb304ce.png)
-)
+
 
 > Sentence about visualization.
 
 #### Visual 2 Title
 
 ![sample image](project1![index](https:![index 2](https://user-images.githubusercontent.com/112998617/199859916-0c121efa-b20b-47d1-90ba-87efd16c8841.png)
-//)
-)
+
 
 ## Model
 
