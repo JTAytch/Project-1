@@ -1,11 +1,11 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Food sales and MRP
+## Discovering the relationship between the MRP of a food and how well it sells.
 
 **Author**: 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Understanding the properties of products and outlets that play crucial roles in increasing sales.
 
 
 ### Data:
